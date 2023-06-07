@@ -1,0 +1,30 @@
+.Top-container{
+    text-align: center;
+    position: relative;
+    color: rgb(229, 226, 243);
+}
+img{
+    height: 660px;
+    margin:0;
+    width:100%;
+}
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .top-right {
+    position: absolute;
+    top: 26px;
+    right: 24px;
+  }
+  .space {
+    width: 28px;
+    height: auto;
+    display: inline-block;
+  }
+
+
+
+  
